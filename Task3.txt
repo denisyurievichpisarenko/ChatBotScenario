@@ -1,0 +1,1 @@
+if country contains "Росси" and city is "Москва" then comment "Записаться к нужному специалисту можно на сайте https://medsi.ru"
